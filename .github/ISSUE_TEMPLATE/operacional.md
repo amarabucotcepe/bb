@@ -1,5 +1,5 @@
 ---
-name: Operaciona
+name: Operacional
 about: Reporte um problema operacional
 title: '[OPERACIONAL] '
 labels: 'contas, transactions'
