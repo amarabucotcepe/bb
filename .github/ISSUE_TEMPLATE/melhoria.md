@@ -5,8 +5,6 @@ title: '[Melhoria] '
 labels: 'contas'
 
 ---
-## Orgão de Controle
-Nome do órgão
 
 ## Descrição do problema
 Uma descrição clara e concisa do problema.
