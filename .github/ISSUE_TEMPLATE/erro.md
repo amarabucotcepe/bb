@@ -5,8 +5,6 @@ title: '[ERRO] '
 labels: 'contas, transactions'
 
 ---
-## Orgão de Controle
-Nome do órgão
 
 ## Descrição do erro
 Uma descrição clara e concisa do erro encontrado.
